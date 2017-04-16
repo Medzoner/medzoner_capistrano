@@ -4,5 +4,5 @@ services:
     #capistrano
     nginx-capistrano:
         image: "medzoner/capistrano:latest"
-        container_name: "capistrano}"
+        container_name: "capistrano"
         restart: "always"
